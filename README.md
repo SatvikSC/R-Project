@@ -1,4 +1,4 @@
-# R-Project-
+# R-Project
 Project on Cleaning and Getting_Data in R
 
 ## Peer-graded Assignment: Getting and Cleaning Data Course Project
