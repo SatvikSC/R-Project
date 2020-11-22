@@ -1,4 +1,4 @@
-The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
+**The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.**
 
 ## Download the dataset
 Dataset downloaded and extracted under the folder called UCI HAR Dataset
@@ -42,6 +42,6 @@ All Mag in column’s name replaced by Magnitude\
 All start with character f in column’s name replaced by Frequency\
 All start with character t in column’s name replaced by Time
 
-## From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject\
+**From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject\
 FinalData (180 rows, 88 columns) is created by sumarizing TidyData taking the means of each variable for each activity and each subject, \
-after groupped by subject and activity. Export FinalData into FinalData.txt file.
+after groupped by subject and activity. Export FinalData into FinalData.txt file.**
